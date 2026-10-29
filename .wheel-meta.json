@@ -1,0 +1,22 @@
+{
+  "wheel_id": 498,
+  "structure": "umbrella",
+  "slug": "goldcoastgaragedoorrepairs-103",
+  "project": "garage-door-repairs-gold-coast-checklist-3bcc6f99b9504cc4cf91e7",
+  "parent_t1_ref": "goldcoastgaragedoorrepairs-151",
+  "node_role": "feeder",
+  "money_target": "goldcoastgaragedoorrepairs.com.au",
+  "primary_kw": "garage door repairs gold coast checklist",
+  "intended_url": "https://sitesau.github.io/goldcoastgaragedoorrepairs-103/",
+  "tier": "T2",
+  "writeback_nonce": "c9884702e80f10b7",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-gold-coast-common-mistakes-54b8ee80dee68/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
